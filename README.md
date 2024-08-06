@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 I'm a physics bachelor at the University of Heidelberg, navigating the cosmos of code. 🌌👩🏽‍💻
-Most of my projects are in Python—because who doesn’t love a good snake? 🐍 
-When I’m not crunching data or or decoding data, I'm probably lost in the mysteries of Active Galactic Nuclei (AGNs). 🚀🔭
+Most of my projects are in Python—because it sounds cooler than other coding languages? 🐍 
+When I’m not crunching numbers or or decoding data, I'm probably lost in the mysteries of Active Galactic Nuclei (AGNs). 🚀🔭
 
 Right now, I’m working at the European Space Astronomy Centre (ESAC) on AGNs in the JWST archive, filtering known AGNs from observations in eJWST. ⚫️👾
 
