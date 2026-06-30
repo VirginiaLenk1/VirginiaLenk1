@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm a physics master student at the University of Heidelberg, navigating the cosmos (of code). 🌌👩🏽‍💻
-While Python is my main coding companion, I also dabble in C++, stilts (java based), and ADQL. 
+While Python is my main coding companion, I also dabble in html/scss, stilts (java based), and ADQL. 
 When I’m not busy with University assignments or on the field playing Volleyball, I'm probably researching Active Galactic Nuclei (AGNs). 
 
 From April to September 2024 I completed an internship at the European Space Astronomy Centre (ESAC) creating a catalogue of known AGNs from observations in the JWST archive. The Catalogue is currently in prep., but once released will be available on this page!
