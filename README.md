@@ -1,8 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Virginia! 👋
 
-I'm a physics master student at the University of Heidelberg, navigating the cosmos (of code). 🌌👩🏽‍💻
-While Python is my main coding companion, I also dabble in html/scss, stilts (java based), and ADQL. 
-When I’m not busy with University assignments or on the field playing Volleyball, I'm probably researching Active Galactic Nuclei (AGNs). 
+I'm a Master's student in Physics at Heidelberg University, spending my days somewhere between galaxies, data cubes, and Python. 🌌👩🏽‍💻
 
-From April to September 2024 I completed an internship at the European Space Astronomy Centre (ESAC) creating a catalogue of known AGNs from observations in the JWST archive. The Catalogue is currently in prep., but once released will be available on this page!
+Most of my work revolves around astrophysics, scientific computing, and data analysis. I enjoy turning messy datasets into something meaningful, writing code that (eventually) works, and continuously learning new technologies along the way.
+
+### Things I work with
+- 🐍 Python
+- HTML / SCSS
+- ADQL (SQL-based)
+- (a tiny bit of) STILTS (Java-based)
+- JWST data, spectroscopy & scientific visualization
+
+### When I'm not coding...
+You'll probably find me
+- 🏐 playing volleyball
+- 🏃‍♀️ running
+- 🚴 biking
+- 🎨 painting
+- 🌿 frolicking outside (yes, it's a valid hobby)
+
+Always happy to learn something new or collaborate on interesting projects!
 
